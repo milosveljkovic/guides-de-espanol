@@ -1,0 +1,25 @@
+site_name: Guides de Español
+
+nav:
+  - Home: index.md
+  - Lections:
+    - A: index.md
+    - B: index.md
+theme:
+  name: material
+  # palette: 
+
+    # Palette toggle for light mode
+    # - scheme: default
+    #   toggle:
+    #     icon: material/weather-sunny
+    #     name: Switch to dark mode
+
+    # # Palette toggle for dark mode
+    # - scheme: slate
+    #   toggle:
+    #     icon: material/weather-night
+    #     name: Switch to light mode
+
+extra_css:
+  - stylesheets/extra.css
